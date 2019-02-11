@@ -1,7 +1,7 @@
 <configs>
     <config name="DesktopGUI" protocol="rdp">
-        <param name="hostname" value="127.0.0.1" />
-        <param name="port" value="3389" />
+        <param name="hostname" value="51.38.72.0" />
+        <param name="port" value="8850" />
         <param name="color-depth" value="16" />
     </config>
 </configs>
